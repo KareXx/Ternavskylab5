@@ -1,0 +1,8 @@
+D:\C#\TernavskyLab5\TernavskyLab5\bin\Debug\TernavskyLab5.exe.config
+D:\C#\TernavskyLab5\TernavskyLab5\bin\Debug\TernavskyLab5.exe
+D:\C#\TernavskyLab5\TernavskyLab5\bin\Debug\TernavskyLab5.pdb
+D:\C#\TernavskyLab5\TernavskyLab5\obj\Debug\TernavskyLab5.csproj.AssemblyReference.cache
+D:\C#\TernavskyLab5\TernavskyLab5\obj\Debug\TernavskyLab5.csproj.SuggestedBindingRedirects.cache
+D:\C#\TernavskyLab5\TernavskyLab5\obj\Debug\TernavskyLab5.csproj.CoreCompileInputs.cache
+D:\C#\TernavskyLab5\TernavskyLab5\obj\Debug\TernavskyLab5.exe
+D:\C#\TernavskyLab5\TernavskyLab5\obj\Debug\TernavskyLab5.pdb
